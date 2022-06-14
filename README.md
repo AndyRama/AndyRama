@@ -78,41 +78,7 @@
  
  ---
  
- # 🛠️ 12 Projects. 
-   - ✔️ work in production.
-   - ❌ Wait for reviews.
-   - 🛠️ In production.
-   - 📂 Code repo.
-   - 💻 Production.
-   - 
-## [P14] Hrnet [xx-xx-22].
-- 📂: https://github.com/AndyRama/AndyRamaroson_14_25112021
-- 💻: https://andyrama.github.io/AndyRamaroson_14_25112021
-
-## [P13] Abank [xx-xx-22].
-- 📂: https://github.com/AndyRama/AndyRamaroson_13_25112021
-- 💻: https://andyrama.github.io/AndyRamaroson_13_25112021
- 
-## [P12] SportSee [xx-xx-22]. 
-- 📂: https://github.com/AndyRama/AndyRamaroson_12_25112021
-- 💻: https://andyrama.github.io/AndyRamaroson_12_25112021
-
-## [P11] Kasa [xx-xx-22].
-- 📂: https://github.com/AndyRama/AndyRamaroson_11_25112021
-- 💻: https://andyrama.github.io/AndyRamaroson_11_25112021
-
-## [P10] Dev4u [xx-xx-22]. 
-- 📂: https://github.com/AndyRama/AndyRamaroson_10_25112021
-- 💻: https://andyrama.github.io/AndyRamaroson_10_25112021
-
-## 🛠️ [P9] Billed [xx-xx-22].
-- 📂: https://github.com/AndyRama/AndyRamaroson_9_25112021
-- 💻: https://andyrama.github.io/AndyRamaroson_9_25112021
-
-## [P7] Les petits plats [xx-xx-22] ❌ 
-### Create a site web to display all recipes of Json and add research.
-- 📂: https://github.com/AndyRama/AndyRamaroson_7_25112021
-- 💻: https://andyrama.github.io/AndyRamaroson_7_25112021 
+## Websites 🛠️
 
 ## [P6] FishEyes [02-05-22] ✔️
 ### Create an accessible site for a platform of photographers.
