@@ -59,7 +59,7 @@
  
  A très bientôt
  
-  * Formation OpenClassRoom 2022 => https://github.com/AndyRama/OpenClassRoom-Formation
+  * 🛠️ Formation OpenClassRoom 2022 => https://github.com/AndyRama/OpenClassRoom-Formation
 
 ** **
  
@@ -78,8 +78,7 @@
  
  ---
  
-## Websites 🛠️
-
+# Websites 
 ## [P6] FishEyes [02-05-22] ✔️
 ### Create an accessible site for a platform of photographers.
 - 📂: https://github.com/AndyRama/AndyRamaroson_6_25112021
