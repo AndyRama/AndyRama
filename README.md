@@ -49,7 +49,6 @@
 [:fr:]
 
 <p><strong>Bonjour et bienvenue sur mon GitHub</strong>, je suis <strong>Andy ramaroson</strong></p>
-<a href="#websites"><em>Voir les projets</em></a>
 
   * Actuellement en collaboration avec [OpenClassrooms sur le parcours Développeur d'application Front-End](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) , je perfectionne mes compétence dans le développement Front-End grace aux 14 projets mis en place dans cette formation.
   
@@ -66,7 +65,6 @@
 [:uk:]
 
 <p><strong>Hi there & welcome to my GitHub</strong>, I’m <strong>Andy ramaroson</strong></p>
-<a href="#websites"><em>View all projects</em></a>
 
   * Currently in collaboration with [OpenClassrooms running on Front-End application development](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) course, I perfect my skills in Front-End development thanks to the 14 projects implemented in this training.
   
@@ -76,29 +74,6 @@
  
  See you soon
  
- ---
- 
-# Websites 
-## [P6] FishEyes [02-05-22] ✔️
-### Create an accessible site for a platform of photographers.
-- 📂: https://github.com/AndyRama/AndyRamaroson_6_25112021
-- 💻: https://andyrama.github.io/AndyRamaroson_6_25112021
-
-## [P4] GameOn [09-03-22] ✔️ 
-### Created a Home page and modal for game evenement.
-- 📂: https://github.com/AndyRama/AndyRamaroson_4_25112021
-- 💻: https://andyrama.github.io/AndyRamaroson_4_25112021
-
-## [P3] Ohmyfood [21-02-22] ✔️
-### Create an accessible site for a platform of restauration.
-- 📂: https://github.com/AndyRama/AndyRamaroson_3_25112021
-- 💻: https://andyrama.github.io/AndyRamaroson_3_25112021
-
-## [P2] Booki [21-01-22] ✔️
-### Create an accessible site for a platform of location.
-- 📂: https://github.com/AndyRama/AndyRamaroson_2_25112021
-- 💻: https://andyrama.github.io/AndyRamaroson_2_25112021
-
  ---
  
  ## Contact :
