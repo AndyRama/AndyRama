@@ -45,36 +45,28 @@
 </p>
 
 ---
-
-[:fr:]
+## OpenClassRoom 2022
 
 <p><strong>Bonjour et bienvenue sur mon GitHub</strong>, je suis <strong>Andy ramaroson</strong></p>
 
   * Actuellement en collaboration avec [OpenClassrooms sur le parcours Développeur d'application Front-End](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) , je perfectionne mes compétence dans le développement Front-End grace aux 14 projets mis en place dans cette formation.
   
   * Les projets proposé par OpenClassrooms m'ont permis de confirmer mes compétences en **HTML5** et **CSS3** et d'apprendre à créer des pages dynamique grace au language de programmation **JavaScript** et au framework **React**.
+   
+    * 🛠️ Formation OpenClassRoom => https://github.com/AndyRama/OpenClassRoom-Formation
+      
+## Le Wagon 2021  
+  * Avant cela j'ai appris durant 2 mois les bases du developpement web et les différents concepts de base en programmation Informatique. En collaboration avec [Le wagon de bordeaux sur le parcours Développeur Full stack](https://www.lewagon.com/bordeaux). 
+  
+  * Les projets proposé par wagon m'ont permis d'initier mes compétences en **HTML5** et **CSS3** et  **JavaScript** d'apprendre à créer un projet complet du concepte de l'application jusqu'au deploiement en porduction grace au language de programmation **ruby** et au framework **RoR**.
+  
+    * 🛠️ Formation Wagon => https://github.com/AndyRama/Wagon-Formation
   
  *N'hésitez pas à vister les divers repos proposé sur ce GitHub, de lire les differents readMe et de parcourir les differents fichiers si le coeur vous en dit.*
  
- A très bientôt
- 
-  * 🛠️ Formation OpenClassRoom 2022 => https://github.com/AndyRama/OpenClassRoom-Formation
+ A très bientôt 
 
 ** **
- 
-[:uk:]
-
-<p><strong>Hi there & welcome to my GitHub</strong>, I’m <strong>Andy ramaroson</strong></p>
-
-  * Currently in collaboration with [OpenClassrooms running on Front-End application development](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) course, I perfect my skills in Front-End development thanks to the 14 projects implemented in this training.
-  
-  * The projects offered by OpenClassrooms allowed me to confirm my skills in **HTML5** and **CSS3** and to learn how to create dynamic pages with the **JavaScript** programming language and the **React** framework.
-  
- *Do not hesitate to visit the various repositories offered on this GitHub, to read the different readMe and to browse the files if you feel like it.*
- 
- See you soon
- 
- ---
  
  ## Contact :
  <p>
