@@ -79,5 +79,5 @@
 	</a>
 </p>
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://www.webmobilefirst.com/screencasts/Ke5Q6XIR2a/))
+![Alt Text]([(https://www.webmobilefirst.com/screencasts/Ke5Q6XIR2a/)])
  
