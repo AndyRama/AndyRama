@@ -67,21 +67,21 @@
 ## React
 - 🏨 [Airbnbclone](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community 
 - 🛒 [Phanbox](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 
-- 🛒 [Collection](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted on GitLab.com. 
+- 🛒 [Collection](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted.
 - 🎬 [Film movie](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion 
 ## Ruby on Rails
 - 🏨 [Andynb.fr](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community 
 - 🛒 [Mangastore.xyz](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 
-- 🏪 [Andydesk.fr](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted on GitLab.com. 
-- 🛒 [Pi4store.xyz](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion 
+- 🏪 [Andydesk.fr](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted.
+- 🛒 [Pi4store.xyz](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation.
 - 🍉 [Marmiton](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. 
 - 🍷  [1001 cocktails](https://github.com/code-dot-org/code-dot-org) - The code powering code.org and studio.code.org
 - 🍍 [WhereFood.fr](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network. 
-- 💪 [SportTraining](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming assignments. 
+- 💪 [SportTraining](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming. 
 - 🏪 [CabinetMedical.xyz](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host. 
 - 🍑 [Kesquonmange.fr](https://github.com/riggraz/astuto) - A free, open source, self-hosted customer feedback tool 
 - 💼 [Portfolio](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 
-- 💼 [Agenceweb](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 
+- 💼 [Agenceweb](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge.
 
 ---    
 # Projet OpenClassRoom 
@@ -92,10 +92,10 @@
 - 💼 [Dev4U](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host. 
 - 🎫 [Billed](https://github.com/riggraz/astuto) -  A free, open source, self-hosted customer feedback tool 
 - 🥭 [Les petits Plats](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform 
-- 📷 [FishEyes](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 
+- 📷 [FishEyes](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp.
 - 🎮 [GameOne](https://github.com/maccman/monocle) - Link and news sharing 
 - 🍒 [Ohmyfood](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 
-- 🏨 [Booki](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 
+- 🏨 [Booki](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. 
 
 ---  
 # Projet LeWagon
@@ -103,7 +103,7 @@
 ## React
 - 🏨 [NbnbReactMap](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community 
 - 🏙️ [WagonCities](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 
-- 🚘 [Garage](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted on GitLab.com. 
+- 🚘 [Garage](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted. 
 - 😕 [Chat](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion 
 
 ## Ruby On Rails
@@ -112,12 +112,12 @@
 - 🛒 [My cave](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
 - ☀️ [Weather](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host. 
 - 🚘 [Geocoding](https://github.com/riggraz/astuto) -  A free, open source, self-hosted customer feedback tool 
-- 🎲 [WorldGame](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming assignments. 
+- 🎲 [WorldGame](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming. 
 - 🍷  [Mistercocktails](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform 
-- 🏨 [SimpleAirBnb](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc.
-- 😕 [StupidCoach](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 
-- 📑 [TaskManager](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 
-- 🎰 [Rails-yelp](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 
+- 🏨 [SimpleAirBnb](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift.
+- 😕 [StupidCoach](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift.
+- 📑 [TaskManager](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift. 
+- 🎰 [Rails-yelp](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift. 
   
 ---
  ## Contact :
