@@ -54,8 +54,6 @@
   * Les projets proposé par OpenClassrooms m'ont permis de confirmer mes compétences en **HTML5** et **CSS3** et d'apprendre à créer des pages dynamique grace au language de programmation **JavaScript** et au framework **React**.
    
     * 🛠️ Formation OpenClassRoom => https://github.com/AndyRama/OpenClassRoom-Formation
-    * 🛠️ [Projets réalisés durant la formation OpenClassRoom](https://github.com/AndyRama/test/edit/main/README.md#projet-openclassroom)
-    
     
 ## Le Wagon 2021  
   * Avant cela j'ai appris durant 2 mois les bases du developpement web et les différents concepts de base en programmation Informatique. En collaboration avec [Le wagon de bordeaux sur le parcours Développeur Full stack](https://www.lewagon.com/bordeaux). 
@@ -63,7 +61,6 @@
   * Les projets proposé par wagon m'ont permis d'initier mes compétences en **HTML5** et **CSS3** et  **JavaScript** d'apprendre à créer un projet complet du concepte de l'application jusqu'au deploiement en porduction grace au language de programmation **ruby** et au framework **RoR**.
   
     * 🛠️ Formation Wagon => https://github.com/AndyRama/Wagon-Formation
-    * 🛠️ [Projets réalisés durant la formation du Wagon](https://github.com/AndyRama/test/edit/main/README.md#projet-lewagon)
     
   *N'hésitez pas à visiter les divers repos proposé sur ce GitHub, de lire les differents readMe et de parcourir les differents fichiers.*
  
