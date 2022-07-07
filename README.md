@@ -91,11 +91,11 @@
 - 🏪 [Kasa](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming assignments. 
 - 💼 [Dev4U](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host. 
 - 🎫 [Billed](https://github.com/riggraz/astuto) -  A free, open source, self-hosted customer feedback tool 
-- 🥭 [Les petits Plats](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform 
-- 📷 [FishEyes](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp.
-- 🎮 [GameOne](https://github.com/maccman/monocle) - Link and news sharing 
-- 🍒 [Ohmyfood](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 
-- 🏨 [Booki](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. 
+- 🥭 [Les petits Plats](https://github.com/AndyRama/AndyRamaroson_7_25112021) - A full featured Live Chat, Support & Marketing platform 
+- 📷 [FishEyes](https://github.com/AndyRama/AndyRamaroson_6_25112021) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp.
+- 🎮 [GameOne](https://github.com/AndyRama/AndyRamaroson_4_25112021) - Link and news sharing 
+- 🍒 [Ohmyfood](https://github.com/AndyRama/AndyRamaroson_3_25112021) - The Rails application that powers OpenStreetMap 
+- 🏨 [Booki](https://github.com/AndyRama/P2_ramaroson_booki) - A free and open database for farming and gardening knowledge. 
 
 ---  
 # Projet LeWagon
@@ -107,9 +107,9 @@
 - 😕 [Chat](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion 
 
 ## Ruby On Rails
-- 🌴 [My garden](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. 
-- 🏙️ [My street views](https://github.com/code-dot-org/code-dot-org) - The code powering code.org and studio.code.org 
-- 🛒 [My cave](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
+- 🌴 [My garden](https://github.com/AndyRama/rails-garden-manager) - A platform for community discussion. Free, open, simple. 
+- 🏙️ [My street views](https://github.com/AndyRama/My_Street_View) - The code powering code.org and studio.code.org 
+- 🛒 [My cave](https://github.com/AndyRama/andycave) - A privacy-aware, distributed, open source social network.
 - ☀️ [Weather](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host. 
 - 🚘 [Geocoding](https://github.com/riggraz/astuto) -  A free, open source, self-hosted customer feedback tool 
 - 🎲 [WorldGame](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming. 
