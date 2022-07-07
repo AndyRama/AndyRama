@@ -54,6 +54,8 @@
   * Les projets proposé par OpenClassrooms m'ont permis de confirmer mes compétences en **HTML5** et **CSS3** et d'apprendre à créer des pages dynamique grace au language de programmation **JavaScript** et au framework **React**.
    
     * 🛠️ Formation OpenClassRoom => https://github.com/AndyRama/OpenClassRoom-Formation
+    * 🛠️ [Projets réalisés durant la formation OpenClassRoom](https://github.com/AndyRama/test/edit/main/README.md#projet-openclassroom)
+    
     
 ## Le Wagon 2021  
   * Avant cela j'ai appris durant 2 mois les bases du developpement web et les différents concepts de base en programmation Informatique. En collaboration avec [Le wagon de bordeaux sur le parcours Développeur Full stack](https://www.lewagon.com/bordeaux). 
@@ -61,12 +63,18 @@
   * Les projets proposé par wagon m'ont permis d'initier mes compétences en **HTML5** et **CSS3** et  **JavaScript** d'apprendre à créer un projet complet du concepte de l'application jusqu'au deploiement en porduction grace au language de programmation **ruby** et au framework **RoR**.
   
     * 🛠️ Formation Wagon => https://github.com/AndyRama/Wagon-Formation
+    * 🛠️ [Projets réalisés durant la formation du Wagon](https://github.com/AndyRama/test/edit/main/README.md#projet-lewagon)
+    
+  *N'hésitez pas à visiter les divers repos proposé sur ce GitHub, de lire les differents readMe et de parcourir les differents fichiers.*
+ 
+ A très bientôt 
+    
 ** **
-## Projet Perso:
+# Projet Perso:
 ## React
 - [airbnbclone](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community 🔥 ✅ 🚀
 - [phanbox](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 🔥 ✅ 🚀
-- [collection](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted on GitLab.com. 🔥 ✅ 🚀
+- [collection](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted on GitLab.com. 🔥 ✅ 
 - [film movie](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion 🔥 ✅ 🚀
 ## Ruby on Rails
 - [andynb](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community 🔥 ✅ 🚀
@@ -84,8 +92,9 @@
 - [MygardenMananger](https://github.com/maccman/monocle) - Link and news sharing 🔥 ✅ 🚀
 - [portfolio](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 🔥 ✅ 🚀
 - [angenceweb](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 🔥 ✅ 🚀
+
 ---    
-## Projet OpenClassRoom:
+# Projet OpenClassRoom 
 - [Hrnet](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. 🔥 ✅ 🚀
 - [Bank](https://github.com/code-dot-org/code-dot-org) - The code powering code.org and studio.code.org 🔥 ✅ 🚀
 - [SportSee](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network. 🔥 ✅ 🚀
@@ -99,7 +108,7 @@
 - [booki](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 🔥 ✅ 🚀
 
 ---  
-## Projet LeWagon:
+# Projet LeWagon
 
 ## React
 - [nbnbReactMap](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community 🔥 ✅ 🚀
@@ -120,10 +129,6 @@
 - [TaskManager](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥 ✅ 🚀
 - [Rails-yelp](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥 ✅ 🚀
   
- *N'hésitez pas à visiter les divers repos proposé sur ce GitHub, de lire les differents readMe et de parcourir les differents fichiers.*
- 
- A très bientôt 
- 
 ---
  ## Contact :
  <p>
