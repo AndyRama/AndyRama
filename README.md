@@ -45,7 +45,7 @@
 </p>
 
 ---
-## OpenClassRoom 2022
+## OpenClassRoom 2021-2022
 
 <p><strong>Bonjour et bienvenue sur mon GitHub</strong>, je suis <strong>Andy ramaroson</strong></p>
 
