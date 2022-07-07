@@ -68,7 +68,7 @@
 - 🏨 [Airbnbclone](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community 
 - 🛒 [Phanbox](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 
 - 🛒 [Collection](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted.
-- 🎬 [Film movie](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion 
+- 🎬 [Film movie](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation. 
 ## Ruby on Rails
 - 🏨 [Andynb.fr](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community 
 - 🛒 [Mangastore.xyz](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 
