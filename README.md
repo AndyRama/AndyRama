@@ -130,9 +130,3 @@
   		<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="30" height="30"/> 
 	</a>
 </p>
-
-<script>
-	document.getElementById("project_title").classList.add="text-align:center;";
-</script>
-
-
