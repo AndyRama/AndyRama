@@ -106,7 +106,7 @@
 - 🏨 [NbnbReactMap](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community [code](https://github.com/AndyRama/rails-garden-manager) 
 - 🏙️ [WagonCities](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce [code](https://github.com/AndyRama/rails-garden-manager)
 - 🚘 [Garage](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted [code](https://github.com/AndyRama/rails-garden-manager). 
-- 😕 [Chat](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion [code](https://github.com/AndyRama/rails-garden-manager)
+- 😕 [Chat](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation. [code](https://github.com/AndyRama/rails-garden-manager)
 
 ## Ruby On Rails
 - 🌴 [My garden](https://github.com/AndyRama/rails-garden-manager) - A platform for community discussion. Free, open, simple [code](https://github.com/AndyRama/rails-garden-manager). 
