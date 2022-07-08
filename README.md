@@ -131,4 +131,8 @@
 	</a>
 </p>
 
+<script>
+	document.getElementById("project_title").classList.add="text-align:center;";
+</script>
+
 
