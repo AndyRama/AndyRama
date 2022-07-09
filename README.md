@@ -121,7 +121,8 @@
 - 📑 [TaskManager](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk. [code](https://github.com/AndyRama/rails-garden-manager) 
 - 🎰 [Rails-yelp](https://github.com/chatwoot/chatwoot) - Rails yelp application game discover Rails. [code](https://github.com/AndyRama/rails-garden-manager)
 
----
+--- 
+
  ## Contact :
  <p>
  	<a href="https://www.linkedin.com/in/andy-ramaroson" target="_blank" rel="noreferrer noopener"> 
