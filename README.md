@@ -95,53 +95,35 @@
  A très bientôt 
     
 ** **
-# Projet Perso:
-## 💼 Lien vers le site | Description  | Code Repo 
 
-## Ruby on Rails
-- 💼 [Portfolio](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🛒 [Pi4store.xyz](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🍍 [WhereFood.fr](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🛒 [Mangastore.xyz](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🏨 [Andynb.fr](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🏪 [Andydesk.fr](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🏪 [CabinetMedical.xyz](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🍉 [Marmiton](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🍷  [1001 cocktails](https://github.com/code-dot-org/code-dot-org) - The code powering code.org and studio.code.org. [code](https://github.com/AndyRama/rails-garden-manager)
-- 💪 [SportTraining](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming. [code](https://github.com/AndyRama/rails-garden-manager)
-- 💼 [Agenceweb](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🍑 [Kesquonmange.fr](https://github.com/riggraz/astuto) - A free, open source, self-hosted customer feedback tool. [code](https://github.com/AndyRama/rails-garden-manager)
-
-
----    
 # Projet OpenClassRoom 
-- 🏪 [Hrnet](https://github.com/AndyRama/AndyRamaroson_14_25112021) - A platform for community discussion. Free, open, simple. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🏦 [Bank](https://github.com/AndyRama/AndyRamaroson_13_25112021) - The code powering code.org and studio.code.org. [code](https://github.com/AndyRama/rails-garden-manager)
-- 💪 [SportSee](https://github.com/AndyRama/AndyRamaroson_12_25112021) - A privacy-aware, distributed, open source social network. [code](https://github.com/AndyRama/rails-garden-manager) 
-- 🏪 [Kasa](https://github.com/AndyRama/AndyRamaroson_11_25112021) - Course management service that enables auto-graded programming.[code](https://github.com/AndyRama/rails-garden-manager) 
-- 💼 [Dev4U](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host.[code](https://github.com/AndyRama/rails-garden-manager) 
-- 🎫 [Billed](https://github.com/AndyRama/AndyRamaroson_9_25112021) -  A free, open source, self-hosted customer feedback tool. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🥭 [Les petits Plats](https://github.com/AndyRama/AndyRamaroson_7_25112021) - A full featured Live Chat, Support & Marketing platform. [code](https://github.com/AndyRama/rails-garden-manager)
-- 📷 [FishEyes](https://github.com/AndyRama/AndyRamaroson_6_25112021) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🎮 [GameOne](https://github.com/AndyRama/AndyRamaroson_4_25112021) - Link and news sharing. [code](https://github.com/AndyRama/rails-garden-manager) 
-- 🍒 [Ohmyfood](https://github.com/AndyRama/AndyRamaroson_3_25112021) - The Rails application that powers OpenStreetMap. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🏨 [Booki](https://github.com/AndyRama/P2_ramaroson_booki) - A free and open database for farming and gardening knowledge. [code](https://github.com/AndyRama/rails-garden-manager)
-
+- 🏪 [Hrnet](https://github.com/AndyRama/AndyRamaroson_14_25112021) - Convertir l'ensemble du projet HRNet en React. 
+- 🏦 [Bank](https://github.com/AndyRama/AndyRamaroson_13_25112021) - Créer notre application web React pour le nouveau système 
+- 💪 [SportSee](https://github.com/AndyRama/AndyRamaroson_12_25112021) - Créer un tableau de bord analytique de performances sportives.
+- 🏪 [Kasa](https://github.com/AndyRama/AndyRamaroson_11_25112021) - plateforme de location de logements entre particuliers.
+- 💼 [Dev4U](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host.✔️
+- 🎫 [Billed](https://github.com/AndyRama/AndyRamaroson_9_25112021) - Débugger et tester un SaaS RH.✔️
+- 🥭 [Les petits Plats](https://github.com/AndyRama/AndyRamaroson_7_25112021) - Créer un site web pour afficher toutes les recettes et ajouter une recherche.✔️
+- 📷 [FishEyes](https://github.com/AndyRama/AndyRamaroson_6_25112021) - Créer un site accessible pour une plateforme de photographes.✔️
+- 🎮 [GameOne](https://github.com/AndyRama/AndyRamaroson_4_25112021) - Création d'une page d'accueil et modale pour l'événement de jeu.✔️
+- 🍒 [Ohmyfood](https://github.com/AndyRama/AndyRamaroson_3_25112021) - Dynamisez une page web avec des animations CSS.✔️
+- 🏨 [Booki](https://github.com/AndyRama/AndyRamaroson_2_25112021) - Transformez une maquette en site web.✔️
 ---  
+
 # Projet LeWagon
 
 ## Ruby On Rails
-- 🌴 [My garden](https://github.com/AndyRama/rails-garden-manager) - A platform for community discussion. Free, open, simple. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🏙️ [My street views](https://github.com/AndyRama/My_Street_View) - The code powering code.org and studio.code.org. [code](https://github.com/AndyRama/rails-garden-manager) 
-- 🛒 [My cave](https://github.com/AndyRama/andycave) - A privacy-aware, distributed, open source social network. [code](https://github.com/AndyRama/rails-garden-manager)
-- ☀️ [Weather](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host. [code](https://github.com/AndyRama/rails-garden-manager) 
-- 🚘 [Geocoding](https://github.com/riggraz/astuto) -  A free, open source, self-hosted customer feedback tool. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🎲 [WorldGame](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming. [code](https://github.com/AndyRama/rails-garden-manager) 
-- 🍷  [Mistercocktails](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🏨 [SimpleAirBnb](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk. [code](https://github.com/AndyRama/rails-garden-manager)
-- 😕 [StupidCoach](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk. [code](https://github.com/AndyRama/rails-garden-manager)
-- 📑 [TaskManager](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk. [code](https://github.com/AndyRama/rails-garden-manager) 
-- 🎰 [Rails-yelp](https://github.com/chatwoot/chatwoot) - Rails yelp application game discover Rails. [code](https://github.com/AndyRama/rails-garden-manager)
+- 🌴 [My garden](https://github.com/AndyRama/rails-garden-manager) - A platform for community discussion. Free, open, simple.
+- 🏙️ [My street views](https://github.com/AndyRama/My_Street_View) - The code powering code.org and studio.code.org.
+- 🛒 [My cave](https://github.com/AndyRama/andycave) - A privacy-aware, distributed, open source social network.
+- ☀️ [Weather](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host.
+- 🚘 [Geocoding](https://github.com/riggraz/astuto) -  A free, open source, self-hosted customer feedback tool.
+- 🎲 [WorldGame](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming. 
+- 🍷  [Mistercocktails](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform.
+- 🏨 [SimpleAirBnb](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk.
+- 😕 [StupidCoach](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk.
+- 📑 [TaskManager](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk.
+- 🎰 [Rails-yelp](https://github.com/chatwoot/chatwoot) - Rails yelp application game discover Rails.
 
 --- 
 
