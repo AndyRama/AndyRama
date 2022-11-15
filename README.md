@@ -97,11 +97,7 @@
 ** **
 # Projet Perso:
 ## 💼 Lien vers le site | Description  | Code Repo 
-## React
-- 🏨 [Airbnbclone](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community. [code](https://github.com/AndyRama/rails-garden-manager) 
-- 🛒 [Phanbox](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce. [code](https://github.com/AndyRama/rails-garden-manager) 
-- 🛒 [Collection](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🎬 [Film movie](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation. [code](https://github.com/AndyRama/rails-garden-manager) 
+
 ## Ruby on Rails
 - 💼 [Portfolio](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap. [code](https://github.com/AndyRama/rails-garden-manager)
 - 🛒 [Pi4store.xyz](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation. [code](https://github.com/AndyRama/rails-garden-manager)
@@ -119,12 +115,12 @@
 
 ---    
 # Projet OpenClassRoom 
-- 🏪 [Hrnet](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🏦 [Bank](https://github.com/code-dot-org/code-dot-org) - The code powering code.org and studio.code.org. [code](https://github.com/AndyRama/rails-garden-manager)
-- 💪 [SportSee](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network. [code](https://github.com/AndyRama/rails-garden-manager) 
-- 🏪 [Kasa](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming.[code](https://github.com/AndyRama/rails-garden-manager) 
+- 🏪 [Hrnet](https://github.com/AndyRama/AndyRamaroson_14_25112021) - A platform for community discussion. Free, open, simple. [code](https://github.com/AndyRama/rails-garden-manager)
+- 🏦 [Bank](https://github.com/AndyRama/AndyRamaroson_13_25112021) - The code powering code.org and studio.code.org. [code](https://github.com/AndyRama/rails-garden-manager)
+- 💪 [SportSee](https://github.com/AndyRama/AndyRamaroson_12_25112021) - A privacy-aware, distributed, open source social network. [code](https://github.com/AndyRama/rails-garden-manager) 
+- 🏪 [Kasa](https://github.com/AndyRama/AndyRamaroson_11_25112021) - Course management service that enables auto-graded programming.[code](https://github.com/AndyRama/rails-garden-manager) 
 - 💼 [Dev4U](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host.[code](https://github.com/AndyRama/rails-garden-manager) 
-- 🎫 [Billed](https://github.com/riggraz/astuto) -  A free, open source, self-hosted customer feedback tool. [code](https://github.com/AndyRama/rails-garden-manager)
+- 🎫 [Billed](https://github.com/AndyRama/AndyRamaroson_9_25112021) -  A free, open source, self-hosted customer feedback tool. [code](https://github.com/AndyRama/rails-garden-manager)
 - 🥭 [Les petits Plats](https://github.com/AndyRama/AndyRamaroson_7_25112021) - A full featured Live Chat, Support & Marketing platform. [code](https://github.com/AndyRama/rails-garden-manager)
 - 📷 [FishEyes](https://github.com/AndyRama/AndyRamaroson_6_25112021) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift. [code](https://github.com/AndyRama/rails-garden-manager)
 - 🎮 [GameOne](https://github.com/AndyRama/AndyRamaroson_4_25112021) - Link and news sharing. [code](https://github.com/AndyRama/rails-garden-manager) 
@@ -133,12 +129,6 @@
 
 ---  
 # Projet LeWagon
-
-## React
-- 🏨 [NbnbReactMap](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community. [code](https://github.com/AndyRama/rails-garden-manager) 
-- 🏙️ [WagonCities](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce. [code](https://github.com/AndyRama/rails-garden-manager)
-- 🚘 [Garage](https://github.com/gitlabhq/gitlabhq) - The canonical source of GitLab where all development takes place is hosted. [code](https://github.com/AndyRama/rails-garden-manager)
-- 😕 [Chat](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation. [code](https://github.com/AndyRama/rails-garden-manager)
 
 ## Ruby On Rails
 - 🌴 [My garden](https://github.com/AndyRama/rails-garden-manager) - A platform for community discussion. Free, open, simple. [code](https://github.com/AndyRama/rails-garden-manager)
