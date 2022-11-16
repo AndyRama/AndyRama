@@ -110,23 +110,6 @@
 - 🏨 [Booki](https://github.com/AndyRama/AndyRamaroson_2_25112021) - Transformez une maquette en site web.✔️
 ---  
 
-# Projet LeWagon
-
-## Ruby On Rails
-- 🌴 [My garden](https://github.com/AndyRama/rails-garden-manager) - A platform for community discussion. Free, open, simple.
-- 🏙️ [My street views](https://github.com/AndyRama/My_Street_View) - The code powering code.org and studio.code.org.
-- 🛒 [My cave](https://github.com/AndyRama/andycave) - A privacy-aware, distributed, open source social network.
-- ☀️ [Weather](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host.
-- 🚘 [Geocoding](https://github.com/riggraz/astuto) -  A free, open source, self-hosted customer feedback tool.
-- 🎲 [WorldGame](https://github.com/autolab/Autolab) - Course management service that enables auto-graded programming. 
-- 🍷  [Mistercocktails](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform.
-- 🏨 [SimpleAirBnb](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk.
-- 😕 [StupidCoach](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk.
-- 📑 [TaskManager](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk.
-- 🎰 [Rails-yelp](https://github.com/chatwoot/chatwoot) - Rails yelp application game discover Rails.
-
---- 
-
  ## Contact :
  <p>
  	<a href="https://www.linkedin.com/in/andy-ramaroson" target="_blank" rel="noreferrer noopener"> 
