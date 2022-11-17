@@ -101,9 +101,9 @@
 - 🏦 [Bank](https://github.com/AndyRama/AndyRamaroson_13_25112021) - Créer notre application web React pour le nouveau système 
 - 💪 [SportSee](https://github.com/AndyRama/AndyRamaroson_12_25112021) - Créer un tableau de bord analytique de performances sportives.
 - 🏪 [Kasa](https://github.com/AndyRama/AndyRamaroson_11_25112021) - plateforme de location de logements entre particuliers.
-- 💼 [Dev4U](https://github.com/huacnlee/bluedoc) - An open-source document management tool for enterprise self host.✔️
+- 💼 [Dev4U]() - Définir les besoins pour une app de soutien scolaire.✔️
 - 🎫 [Billed](https://github.com/AndyRama/AndyRamaroson_9_25112021) - Débugger et tester un SaaS RH.✔️
-- 🥭 [Les petits Plats](https://github.com/AndyRama/AndyRamaroson_7_25112021) - Créer un site web pour afficher toutes les recettes et ajouter une recherche.✔️
+- 🥭 [Les petits Plats](https://github.com/AndyRama/AndyRamaroson_7_25112021) - Créer un site web de recettes de cuisine avec ajout d'une recherche.✔️
 - 📷 [FishEyes](https://github.com/AndyRama/AndyRamaroson_6_25112021) - Créer un site accessible pour une plateforme de photographes.✔️
 - 🎮 [GameOne](https://github.com/AndyRama/AndyRamaroson_4_25112021) - Création d'une page d'accueil et modale pour l'événement de jeu.✔️
 - 🍒 [Ohmyfood](https://github.com/AndyRama/AndyRamaroson_3_25112021) - Dynamisez une page web avec des animations CSS.✔️
