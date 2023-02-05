@@ -97,7 +97,7 @@
 ** **
 
 # Projet OpenClassRoom 
-- 🏪 [Hrnet](https://github.com/AndyRama/AndyRamaroson_14_25112021) - Convertir l'ensemble du projet HRNet en React. 
+- 🏪 [Hrnet](https://github.com/AndyRama/AndyRamaroson_14_25112021) - Convertir l'ensemble du projet HRNet en React.✔️ 
 - 🏦 [Bank](https://github.com/AndyRama/AndyRamaroson_13_25112021) - Créer notre application web React pour le nouveau système.✔️
 - 💪 [SportSee](https://github.com/AndyRama/AndyRamaroson_12_25112021) - Créer un tableau de bord analytique de performances sportives.✔️
 - 🏪 [Kasa](https://github.com/AndyRama/AndyRamaroson_11_25112021) - plateforme de location de logements entre particuliers.✔️
