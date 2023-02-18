@@ -79,16 +79,16 @@
 ** **
 ## OpenClassroom 2021-2022
 
-<p><strong>Bonjour et bienvenue sur mon GitHub</strong>, je suis <strong>Andy ramaroson</strong></p>
+<p><strong>Bonjour et bienvenu(e) sur mon GitHub</strong>, je suis <strong>Andy Ramaroson</strong></p>
 
   * Actuellement en collaboration avec [OpenClassrooms sur le parcours Développeur d'application Front-End](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) , je perfectionne mes compétences dans le développement Front-End grâce aux 14 projets mis en place dans cette formation.
   
-  * Les projets proposés par OpenClassrooms m'ont permis de confirmer mes compétences en **HTML5** et **CSS3** et d'apprendre à créer des pages dynamique grace au language de programmation **JavaScript** et au framework **React**.
+  * Les projets proposés par OpenClassrooms m'ont permis de confirmer mes compétences en **HTML5** et **CSS3** et d'apprendre à créer des pages dynamiques grâce au langage de programmation **JavaScript** et au framework **React**.
        
 ## Le Wagon 2021  
-  * Avant cela j'ai appris durant 2 mois les bases du developpement web et les différents concepts de base en programmation Informatique, En collaboration avec [Le wagon de bordeaux sur le parcours Développeur Full stack](https://www.lewagon.com/bordeaux). 
+  * Avant cela j'ai appris durant 2 mois les bases du développement web et les différents concepts de base en programmation Informatique, en collaboration avec [Le wagon de Bordeaux sur le parcours Développeur Full stack](https://www.lewagon.com/bordeaux). 
   
-  * Les projets proposés par Wagon m'ont permis d'initier mes compétences en **HTML5** , **CSS3** et  **JavaScript** d'apprendre à créer un projet complet du concepte de l'application jusqu'au déploiement en production grace au language de programmation **ruby** et au framework **RoR**.
+  * Les projets proposés avec le Wagon m'ont permis d'initier mes compétences en **HTML5**, **CSS3** et  **JavaScript** et d'apprendre à créer un projet complet du concepte de l'application jusqu'au déploiement en production grace au language de programmation **ruby** et au framework **RoR**.
      
   *N'hésitez pas à visiter les divers depots proposés sur ce GitHub, de lire les differents readMe et de parcourir les differents fichiers.*
  
