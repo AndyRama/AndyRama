@@ -88,9 +88,9 @@
 ## Le Wagon 2021  
   * Avant cela j'ai appris durant 2 mois les bases du développement web et les différents concepts de base en programmation Informatique, en collaboration avec [Le wagon de Bordeaux sur le parcours Développeur Full stack](https://www.lewagon.com/bordeaux). 
   
-  * Les projets proposés avec le Wagon m'ont permis d'initier mes compétences en **HTML5**, **CSS3** et  **JavaScript** et d'apprendre à créer un projet complet du concepte de l'application jusqu'au déploiement en production grace au language de programmation **ruby** et au framework **RoR**.
+  * Les projets proposés avec le Wagon m'ont permis d'initier mes compétences en **HTML5**, **CSS3** et  **JavaScript** et d'apprendre à créer un projet complet du concept de l'application  jusqu'à la mise en production grâce au langage de programmation **Ruby** et au framework **RoR**.
      
-  *N'hésitez pas à visiter les divers depots proposés sur ce GitHub, de lire les differents readMe et de parcourir les differents fichiers.*
+  *N'hésitez pas à visiter les divers dépôts proposés sur ce GitHub, à lire les différents readMe et à parcourir les différents fichiers.*
  
  A très bientôt 
     
@@ -100,14 +100,14 @@
 - 🏪 [Hrnet](https://github.com/AndyRama/AndyRamaroson_14_25112021) - Convertir l'ensemble du projet HRNet en React.✔️ 
 - 🏦 [Bank](https://github.com/AndyRama/AndyRamaroson_13_25112021) - Créer notre application web React pour le nouveau système.✔️
 - 💪 [SportSee](https://github.com/AndyRama/AndyRamaroson_12_25112021) - Créer un tableau de bord analytique de performances sportives.✔️
-- 🏪 [Kasa](https://github.com/AndyRama/AndyRamaroson_11_25112021) - plateforme de location de logements entre particuliers.✔️
-- 💼 [Dev4U]() - Définir les besoins pour une app de soutien scolaire.✔️
-- 🎫 [Billed](https://github.com/AndyRama/AndyRamaroson_9_25112021) - Débugger et tester un SaaS RH.✔️
-- 🥭 [Les petits Plats](https://github.com/AndyRama/AndyRamaroson_7_25112021) - Créer un site web de recettes de cuisine avec ajout d'une recherche.✔️
-- 📷 [FishEyes](https://github.com/AndyRama/AndyRamaroson_6_25112021) - Créer un site accessible pour une plateforme de photographes.✔️
+- 🏪 [Kasa](https://github.com/AndyRama/AndyRamaroson_11_25112021) - Plateforme de location de logements entre particuliers.✔️
+- 💼 [Dev4U]() - Définir les besoins pour une application de soutien scolaire.✔️
+- 🎫 [Billed](https://github.com/AndyRama/AndyRamaroson_9_25112021) - Débugage et tester un SaaS RH.✔️
+- 🥭 [Les petits Plats](https://github.com/AndyRama/AndyRamaroson_7_25112021) - Création un site web de recettes de cuisine avec ajout d'une recherche.✔️
+- 📷 [FishEyes](https://github.com/AndyRama/AndyRamaroson_6_25112021) - Création d'un site accéssible pour une plateforme de photographes.✔️
 - 🎮 [GameOne](https://github.com/AndyRama/AndyRamaroson_4_25112021) - Création d'une page d'accueil et modale pour l'événement de jeu.✔️
-- 🍒 [Ohmyfood](https://github.com/AndyRama/AndyRamaroson_3_25112021) - Dynamisez une page web avec des animations CSS.✔️
-- 🏨 [Booki](https://github.com/AndyRama/AndyRamaroson_2_25112021) - Transformez une maquette en site web.✔️
+- 🍒 [Ohmyfood](https://github.com/AndyRama/AndyRamaroson_3_25112021) - Dynamisation une page web avec des animations CSS.✔️
+- 🏨 [Booki](https://github.com/AndyRama/AndyRamaroson_2_25112021) - Transformation d'une maquette en site web.✔️
 ---  
 
  ## Contact :
