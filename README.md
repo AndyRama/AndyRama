@@ -12,69 +12,31 @@
 
 <h3 align="middle">Languages and Tools:</h3>
 <p align="center">
-	<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="37" height="37" /> 
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" /> 
-	</a>
- 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-   		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/> 
- 	</a>
- 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
- 	</a> 
- 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
- 	</a>
- 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
- 	</a> 
-	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
-  		<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/> 
- 	</a>
-	<a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-  		<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
- 	</a> 
- 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
- 	</a> 
- 	<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-  		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
- 	</a> 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+ </a> 
+ <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+ </a> 
+ <a href="https://github.com" target="_blank" rel="noreferrer">  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/> 
+ </a>  
+ <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="RUBY" width="37" height="37" /> 
+ </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+ </a> 
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostGresql" width="40" height="40"/> 
+ </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+ </a> 
+ <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/> 
+ </a>
 </p>
-<p align="center">
-	<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="RUBY" width="37" height="37" /> 
-	</a>
-        <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer">     
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/> 
- 	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySql" width="45" height="45" /> 
-	</a>
- 	<a href="https://jquery.com" rel="noreferrer"> 
-   	     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="45" height="45"/> 
- 	</a>
- 	<a href="https://github.com" target="_blank" rel="noreferrer"> 
-  		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/> 
- 	</a>  	
-	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  		<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostGresql" width="40" height="40"/> 
- 	</a>
-	<a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-  		<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphQl" width="40" height="40"/> 
- 	</a> 
- 	<a href="https://heroku.com/" target="_blank" rel="noreferrer"> 
-  		<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
- 	</a>
-	<a href="https://www.trello.com/" target="_blank" rel="noreferrer"> 
-  		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" alt="Rspec" width="40" height="40"/> 
- 	</a>
-	<a href="https://ubuntu.com" target="_blank" rel="noreferrer"> 
-  		<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu" width="40" height="40"/> 
- 	</a> 
-</p> 
 
 ** **
 ## OpenClassroom 2021-2022
