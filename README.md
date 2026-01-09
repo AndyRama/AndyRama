@@ -68,7 +68,7 @@ Formation intensive de **9 semaines** aux fondamentaux du développement web :
 
 ## 💼 Aujourd'hui
 
-Après ces formations, je me suis spécialisé dans l'écosystème **Next.js/React** et j'ai développé **+15 sites web professionnels** pour des PME et artisans.
+Après ces formations, je me suis spécialisé dans l'écosystème **Next.js/React** et j'ai développé **+5 sites web professionnels** pour des PME et artisans.
 
 **Technologies actuelles :** Next.js • React • TypeScript • Tailwind CSS • PostgreSQL • Vercel
 
