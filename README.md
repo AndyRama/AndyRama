@@ -39,24 +39,51 @@
 </p>
 
 ** **
-## OpenClassroom 2021-2022
 
-<p><strong>Bonjour et bienvenu(e) sur mon GitHub</strong>, je suis <strong>Andy Ramaroson</strong></p>
 
-  * Actuellement en collaboration avec [OpenClassrooms sur le parcours Développeur d'application Front-End](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) , je perfectionne mes compétences dans le développement Front-End grâce aux 14 projets mis en place dans cette formation.
-  
-  * Les projets proposés par OpenClassrooms m'ont permis de confirmer mes compétences en **HTML5** et **CSS3** et d'apprendre à créer des pages dynamiques grâce au langage de programmation **JavaScript** et au framework **React**.
-       
-## Le Wagon 2021  
-  * Avant cela j'ai appris durant 2 mois les bases du développement web et les différents concepts de base en programmation Informatique, en collaboration avec [Le wagon de Bordeaux sur le parcours Développeur Full stack](https://www.lewagon.com/bordeaux). 
-  
-  * Les projets proposés avec le Wagon m'ont permis d'initier mes compétences en **HTML5**, **CSS3** et  **JavaScript** et d'apprendre à créer un projet complet du concept de l'application  jusqu'à la mise en production grâce au langage de programmation **Ruby** et au framework **RoR**.
-     
-  *N'hésitez pas à visiter les divers dépôts proposés sur ce GitHub, à lire les différents readMe et à parcourir les différents fichiers.*
- 
- A très bientôt 
-    
-** **
+
+# 👋 Bonjour et bienvenue sur mon GitHub !
+
+Je suis **Andy Ramaroson**, développeur web full-stack spécialisé en **Next.js**, **React** et **TypeScript**.
+
+## 🎓 Parcours de formation
+
+### OpenClassrooms | Développeur d'Application Front-End (2021-2023)
+Diplômé du parcours certifiant développeur JavaScript React avec **14 projets professionnels** :
+- ✅ Intégration de maquettes et développement responsive
+- ✅ Applications React avec gestion d'état complexe
+- ✅ Intégration d'API REST et optimisation des performances
+- ✅ Tests unitaires et déploiement en production
+
+**Stack technique :** HTML5 • CSS3 • JavaScript ES6+ • React • Redux • Node.js
+
+### Le Wagon Bordeaux | Bootcamp Full Stack (2021)
+Formation intensive de **9 semaines** aux fondamentaux du développement web :
+- ✅ Développement front-end et back-end
+- ✅ Architecture MVC avec Ruby on Rails
+- ✅ Travail collaboratif et méthodologie Agile
+- ✅ Projet final : application web complète en équipe
+
+**Stack technique :** Ruby • Rails • PostgreSQL • JavaScript • Git
+
+## 💼 Aujourd'hui
+
+Après ces formations, je me suis spécialisé dans l'écosystème **Next.js/React** et j'ai développé **+15 sites web professionnels** pour des PME et artisans.
+
+**Technologies actuelles :** Next.js • React • TypeScript • Tailwind CSS • PostgreSQL • Vercel
+
+## 📂 Sur ce GitHub
+
+Vous trouverez mes différents projets, exercices et expérimentations. N'hésitez pas à :
+- 🔍 Explorer les repositories
+- 📖 Consulter les README détaillés
+- 💬 Me contacter pour toute question
+
+**Bonne visite !** 👨‍💻
+
+
+---
+
 
 # Projet OpenClassRoom 
 - 🏪 [Hrnet](https://github.com/AndyRama/AndyRamaroson_14_25112021) - Convertion de l'ensemble du projet HRNet en React.✔️ 
